@@ -94,3 +94,10 @@ main {
     color: #495057;
     font-size: 18px;
 }
+
+@media (max-width: 768px) {
+  .btn {
+    width: 100%;
+    margin: 10px 0 0;
+  }
+}
